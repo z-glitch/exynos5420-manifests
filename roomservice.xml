@@ -16,7 +16,7 @@
   <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
   <project name="exynos5420/android_device_samsung_v2a-common" path="device/samsung/v2a-common" remote="github" />
   <project name="exynos5420/android_device_samsung_v2awifi" path="device/samsung/v2awifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_universal5420-common" path="device/samsung/universal5420-common" remote="github" />
+  <project name="z-glitch/android_device_samsung_universal5420-common" path="device/samsung/universal5420-common" remote="github" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" />
 
   <!-- KERNEL -->
